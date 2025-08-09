@@ -6,7 +6,7 @@ B2B site for seller and buyer can use single website. seller can add thir procuc
 
 ## Tech Stack:
  * Node express JS  for high concurrency
- * mongoess with  noschema database architecture
+ * mongoess with noschema database architecture
  * winston logging
  * oppusm circuit braker
  * express-openid-connect for open id connet
