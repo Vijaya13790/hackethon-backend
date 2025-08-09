@@ -1,8 +1,8 @@
 # hackethon-backend
 hackethon-backend
 
-# Project Title
-B2B site for seller and byer can user sigle website. seller can add thir procucts and buyer can view the products and cand add cart and place orders
+# Project Description
+B2B site for seller and buyer can use single website. seller can add thir procucts and buyer can view the products and user can add cart and place orders
 
 ## Tech Stack:
  * Node express JS  for high concurrency
