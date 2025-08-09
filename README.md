@@ -1,18 +1,19 @@
 # hackethon-backend
 hackethon-backend
 
-# Project Description
-B2B site for seller and buyer can use single website. seller can add thir procucts and buyer can view the products and user can add cart and place orders
+# Project Title
+B2B site for seller and byer can user sigle website. seller can add thir procucts and buyer can view the products and cand add cart and place orders
 
 ## Tech Stack:
  * Node express JS  for high concurrency
- * mongoess with noschema database architecture
+ * mongoess with  noschema database architecture
  * winston logging
  * oppusm circuit braker
  * express-openid-connect for open id connet
  
 ## Database
   mongodb with atlas
+
 
 ## Models
 * User Model,
