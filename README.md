@@ -14,7 +14,6 @@ B2B site for seller and buyer can use single website. seller can add thir procuc
 ## Database
   mongodb with atlas
 
-
 ## Models
 * User Model,
 * product_item
